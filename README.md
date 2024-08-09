@@ -4,7 +4,7 @@ Hello there! 👋 My name is Nguyen Minh Dang, and I'm a final year students. We
 
 ## About Me
 
-💍 I'm passionate about Music and Games (I like League Of Lengend the best). I enjoy table tennis and constantly seek opportunities to learn and grow in the field of IT.
+💍 I'm passionate about Music and Games. I enjoy table tennis and constantly seek opportunities to learn and grow in the field of IT.
 
 ## Skills
 
