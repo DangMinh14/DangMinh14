@@ -22,7 +22,3 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DangMinh14&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangMinh14&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
