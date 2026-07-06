@@ -1,6 +1,6 @@
 # Introduction
 
-Hello there! 👋 My name is Nguyen Minh Dang, and I'm a final year students. Welcome to my GitHub profile! 
+Hello there! 👋 My name is Nguyen Minh Dang, welcome to my GitHub profile! 
 
 ## About Me
 
